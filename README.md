@@ -8,3 +8,5 @@
     clave
     nombre completo
 - Crear archivo Facturas.csv con formato fc_date,descripcion,precio
+
+Inspirado en el proyecto: https://github.com/nicolasrod/factur.ar
