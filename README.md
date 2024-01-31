@@ -3,6 +3,7 @@
 
 - Instalar python3 y selenium (pip3 install selenium)
 - Descargar chromedriver y ponerlo en la carpeta del script
+    Se puede descargar desde: ttps://googlechromelabs.github.io/chrome-for-testing/#stable
 - Crear archivo credenciales.dat con formato:
     cuil
     clave
